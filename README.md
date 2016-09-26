@@ -4,7 +4,7 @@ The following is a description of a coding assignment that is designed
 to be aligned with the Open FDA project you're going to be working on.
 Please use Python 2 and any open-source libraries and IDE of your choice.
  
-[file1.xml](file1.xml) contains a small portion of the FDA's Global
+[udi.xml](udi.xml) contains a small portion of the FDA's Global
 Unique Device Identification Database (GUDID) data set. It is
 self-descriptive: root XML element contains a number of `device`
 records. Please write Python code that will perform the following:
